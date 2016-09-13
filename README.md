@@ -20,6 +20,11 @@ ps3:Bot可视为一个公用的音乐播放器，点歌切歌时请自重和尊�
 ###主持游戏
 已初步实现主持游戏[抵抗组织（点击查看规则）](http://wenku.baidu.com/link?url=ia8vJ7eBArp83jZJu2vo4pJgTIezmP6C4IwF07-QJIxGW7MN7651EduvqMLnDPEQUUZUrZUjbOP1b1qEs2LPs3nGQP-PKcaREHCef11rHzy)，正在公测。
 
+特别鸣谢以下热心群众帮助测试（排名不分先后，如有遗漏，请告诉我）：  
+[@Bacula](https://drrr.wiki/@Bacula)  
+[@一只活腻的鬼](https://drrr.wiki/@一只活腻的鬼)  
+[@君莫笑](https://drrr.wiki/@君莫笑)  
+
 ##指令示例  
 
 **指令名前的-，指令与参数、参数与参数之间的空格，均不可省略。  
