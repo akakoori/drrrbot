@@ -17,10 +17,10 @@ ps3:Bot可视为一个公用的音乐播放器，点歌切歌时请自重和尊�
 [微软小冰](http://www.msxiaoice.com/)
 [simsimi（小黄鸡）](http://www.simsimi.com/)
 
-###主持游戏
-已初步实现主持游戏[抵抗组织（点击查看规则）](http://wenku.baidu.com/link?url=ia8vJ7eBArp83jZJu2vo4pJgTIezmP6C4IwF07-QJIxGW7MN7651EduvqMLnDPEQUUZUrZUjbOP1b1qEs2LPs3nGQP-PKcaREHCef11rHzy)，正在公测。  
-支持可选的计时模式。（用于控制游戏节奏和用时，新手或网络不稳定时请勿开启。）  
-支持可选的**阿瓦隆**扩展与**湖上夫人**扩展。
+###主持游戏（抵抗组织）
++ 已初步实现主持游戏[抵抗组织（点击查看规则）](http://wenku.baidu.com/link?url=ia8vJ7eBArp83jZJu2vo4pJgTIezmP6C4IwF07-QJIxGW7MN7651EduvqMLnDPEQUUZUrZUjbOP1b1qEs2LPs3nGQP-PKcaREHCef11rHzy)，正在公测。  
++ 支持可选的计时模式。（用于控制游戏节奏和用时，新手或网络不稳定时请勿开启。）  
++ 支持可选的**阿瓦隆**扩展与**湖上夫人**扩展。
 
 特别鸣谢以下热心群众帮助测试（排名不分先后，如有遗漏，请告诉我）：  
 [@Bacula](https://drrr.wiki/@Bacula)  
